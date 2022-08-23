@@ -7,4 +7,4 @@
 ## Contacts
 * Telegram: https://t.me/kora081
 * Email: rothergaar@gmail.com
-* Slack: howieter
+* Slack (s21): @howieter
