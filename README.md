@@ -1,7 +1,7 @@
 ### Hello, I'm Garegin!
 * Student of School_21
-* I have experience and made projects with C, C#
-* Currently I'm learning OOP approach to building software
+* I have experience and made projects with C, python, C#
+* Currently I'm learning C# OOP approach to building software
 * I'm open for the internship / job opportunities as a backend developer
 
 ## Contacts
