@@ -3,4 +3,3 @@
 
 ## Contacts
 * Telegram: https://t.me/kora081
-* Email: rothergaar@gmail.com
